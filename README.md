@@ -3,4 +3,5 @@
 ローカルリポで変更  
 rebase-practiceブランチ(更新konnfurikuto)
 その２
-sutassyuコンフリクト
+sutassyuコンフリクト()
+messsage
