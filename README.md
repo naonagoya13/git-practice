@@ -4,4 +4,4 @@
 rebase-practiceブランチ(更新konnfurikuto)
 その２
 sutassyuコンフリクト()
-messsage
+messsage2
